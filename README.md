@@ -2,7 +2,7 @@
 
 🎓 I'm a college student passionate about coding and dreaming of becoming a game developer
 
-👀 I’m interested in game development, full-stack web apps, and creative coding projects
+👀 I’m interested in game development and web development, full-stack web apps, and creative coding projects
 
 🌱 Currently learning Laravel, React, and C# (with an eye on Unity!)
 
